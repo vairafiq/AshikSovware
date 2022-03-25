@@ -23,7 +23,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="100" height="40"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="	https://dart.dev/assets/shared/dart-logo-for-shares.png?2" width="100" height="40"/> </a> 
     <a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/djangoproject-2752208-2285025.png" width="40" height="40"/> </a> 
