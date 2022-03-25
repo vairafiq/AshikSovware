@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashikur Rahman</h1>
-<h3 align="center">I'm a passionate Flutter Mobile App Developer from Bangladesh.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafiqul Islam</h1>
+<h3 align="center">I'm a WordPress Plugin Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -39,16 +39,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/AshikSovware/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshikSovware&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/vairafiq/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vairafiq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AshikSovware/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshikSovware&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AshikSovware/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikSovware&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vairafiq/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vairafiq&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vairafiq/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vairafiq&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AshikSovware/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshikSovware&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vairafiq/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vairafiq&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://github.com/AshikSovware"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/></a>
+<a href = "https://github.com/vairafiq"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/></a>
 <a href = "https://www.facebook.com/ashikur.rohmanko/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="40" height="40"/></a>
 <a href = "https://www.instagram.com/_ashik__rahman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC5zbTdq0Gi9zQXod2SBMQfw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -73,6 +73,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AshikSovware">
+    <img src="https://komarev.com/ghpvc/?username=vairafiq">
 </a>
-<a href="https://github.com/AshikSovware?tab=followers"><img src="https://img.shields.io/github/followers/AshikSovware?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vairafiq?tab=followers"><img src="https://img.shields.io/github/followers/vairafiq?label=Followers&style=social" alt="GitHub Badge"></a>
